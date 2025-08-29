@@ -37,7 +37,7 @@ git clone https://github.com/itsemhee/DS-Survey.git
 cd tech-survey-dashboard
 ```
 
-2️⃣ Install dependencies
+###2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -86,7 +86,7 @@ Python 3.8+
 Excel 2016 or later
 
 
-**DataSet**
+##DataSet
 You can download the dataset from: https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021
 
 📸 Sample Dashboard Preview

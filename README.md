@@ -37,19 +37,17 @@ git clone https://github.com/itsemhee/DS-Survey.git
 cd tech-survey-dashboard
 ```
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 
-🚀 Usage
+## 🚀 Usage
 🔹 Run the data cleaning script
 ```bash
 python scripts/DS_Survey.py
 ```
-
-
 This will generate a cleaned CSV inside the DS_Survey/ folder.
 
 🔹 Open the Excel Dashboard
@@ -62,7 +60,7 @@ Interact with slicers (Gender, Country, Experience)
 
 
 
-🔍 Insights (from the Dashboard)
+## 🔍 Insights (from the Dashboard)
 
 Here are some example insights discovered from the dataset:
 
@@ -79,17 +77,17 @@ Most Used ML Framework: Scikit-learn
 Gender Split: Majority male respondents 
 
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 Python 3.8+
 
 Excel 2016 or later
 
 
-##DataSet
+## DataSet
 You can download the dataset from: https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021
 
-📸 Sample Dashboard Preview
+## 📸 Sample Dashboard Preview
 ![Dashboard](Dashboard.png)
 
 

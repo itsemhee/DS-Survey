@@ -1,0 +1,11 @@
+
+---
+
+### 📄 `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+openpyxl
+notebook

@@ -41,9 +41,6 @@ git clone https://github.com/itsemhee/DS-Survey.git
 cd DS-Survey
 ```
 
-### 2️⃣ Install dependencies
-cd DS_Survey
-```
 
 ## 2️⃣ Install dependencies
 ```bash
